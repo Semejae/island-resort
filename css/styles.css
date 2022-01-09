@@ -1,15 +1,17 @@
 html {
 	margin: 0;
 	padding: 0;
-
 }
+
 h1 {
 color: blueviolet;
 margin: 0;
 padding: 0;
 font: 75% georgia, sans-serif;
-	line-height: 1.88889;
+line-height: 1.88889;
+text-align: center;
 }
+
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
@@ -17,10 +19,12 @@ body {
   margin: 0;
   padding: 0;
 }
+
 p { 
 	margin-top: 0; 
 	text-align: justify;
 	}
+
 h3 { 
 	font: italic normal 1.4em georgia, sans-serif;
 	letter-spacing: 1px; 
